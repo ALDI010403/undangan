@@ -2,17 +2,18 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Sopiyan mulyana',
-            child: 'Putra ke 1',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Muhammad Sofian',
+            namecall: 'Sofian',
+            child: 'Putra ke 3',
+            father: 'H.Sholeh rahman(alm)',
+            mother: 'Hj.Mila Jamilah',
             image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
             name: 'Maetati',
             child: 'Putri ke 3',
-            father: 'Guntur',
+            father: ' Mad Guntur',
             mother: 'Tupi',
             image: './src/assets/images/cewe.png'
         },
@@ -37,7 +38,7 @@ export const data = {
             date: '20',
             day: 'Minggu',
             hours: {
-                start: '11.00',
+                start: '10.00',
                 finish: 'Selesai'
             }
         },
@@ -75,19 +76,19 @@ export const data = {
     bank: [
         {
             id: 1,
-            name: 'Lorem Ipsum',
+            name: 'Maetati',
             icon: './src/assets/images/bca.png',
-            rekening: '12345678'
+            rekening: '2453325270'
         },
         {
             id: 2,
-            name: 'Ipsum Lorem',
-            icon: './src/assets/images/bri.png',
-            rekening: '12345678'
+            name: 'Maetati',
+            icon: './src/assets/images/Dana.png',
+            rekening: '085810505671'
         },
     ],
 
-    audio: './src/assets/audio/wedding.mp3',
+    audio: './src/assets/audio/sound.mp3',
 
     api: 'https://script.google.com/macros/s/AKfycbxcZUYs5UQRm1sjzg-QgZt-tbQM4ucNov2_3K2AD7W0hzIdL8OsJfJpGPbyVzj0XOTE/exec',
 
