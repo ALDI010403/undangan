@@ -22,7 +22,7 @@
 
 1. **Download the project or clone the repository**:
     ```bash
-    git clone 
+    git clone https://github.com/ALDI010403/undangan.git
     ```
 
 2. **Note**: You have two options to use this source code:
