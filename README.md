@@ -1,6 +1,6 @@
 ## Demo
 
-[![Wedding Invitation](https://img.shields.io/badge/Demo-Wedding%20Invitation-blue?style=for-the-badge&logoColor=white)](https://sandiperdiansah.github.io/wedding-invitation?to=Sandi%20Perdiansah)
+[![Wedding Invitation](https://img.shields.io/badge/Demo-Wedding%20Invitation-blue?style=for-the-badge&logoColor=white)]()
 
 
 ## Features
@@ -22,7 +22,7 @@
 
 1. **Download the project or clone the repository**:
     ```bash
-    git clone https://github.com/sandiperdiansah/wedding-invitation.git
+    git clone https://github.com/ALDI010403/undangan.git
     ```
 
 2. **Note**: You have two options to use this source code:
